@@ -1,0 +1,12 @@
+openai
+unstructured
+unstructured[pdf]
+unstructured[all-docs]
+python-magic==0.4.15
+tiktoken
+langchain
+pypdf
+weaviate-client
+docx2txt
+pysqlite3-binary
+chromadb
